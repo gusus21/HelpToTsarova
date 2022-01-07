@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Шось_з_цифрами"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Шось з найменшим", "Шось з найменшим\Шось з найменшим.csproj", "{E878751F-E9E2-44FC-9FA6-ABD8B463221A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шось з паліндромом", "Шось з паліндромом\Шось з паліндромом.csproj", "{06B47B06-FD58-4357-A94A-F7E5EC753DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Шось з паліндромом", "Шось з паліндромом\Шось з паліндромом.csproj", "{06B47B06-FD58-4357-A94A-F7E5EC753DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шось страшне з словами", "Шось страшне з словами\Шось страшне з словами.csproj", "{5C299B3F-A1A1-4940-B913-1959E1987A51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{06B47B06-FD58-4357-A94A-F7E5EC753DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06B47B06-FD58-4357-A94A-F7E5EC753DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06B47B06-FD58-4357-A94A-F7E5EC753DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C299B3F-A1A1-4940-B913-1959E1987A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C299B3F-A1A1-4940-B913-1959E1987A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C299B3F-A1A1-4940-B913-1959E1987A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C299B3F-A1A1-4940-B913-1959E1987A51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

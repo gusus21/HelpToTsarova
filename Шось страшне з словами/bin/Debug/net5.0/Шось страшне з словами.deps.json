@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Шось страшне з словами/1.0.0": {
+        "runtime": {
+          "Шось страшне з словами.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Шось страшне з словами/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
