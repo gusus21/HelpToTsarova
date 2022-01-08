@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Шось з паліндр�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Шось страшне з словами", "Шось страшне з словами\Шось страшне з словами.csproj", "{5C299B3F-A1A1-4940-B913-1959E1987A51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шось з однаковими цифрами", "Шось з однаковими цифрами\Шось з однаковими цифрами.csproj", "{EBCEBB80-7081-4C1E-88B9-1E779BF2CF14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Шось з однаковими цифрами", "Шось з однаковими цифрами\Шось з однаковими цифрами.csproj", "{EBCEBB80-7081-4C1E-88B9-1E779BF2CF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Знову слова", "Знову слова\Знову слова.csproj", "{BB122839-4D5D-4E0B-B561-A5522099C66D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EBCEBB80-7081-4C1E-88B9-1E779BF2CF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCEBB80-7081-4C1E-88B9-1E779BF2CF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBCEBB80-7081-4C1E-88B9-1E779BF2CF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB122839-4D5D-4E0B-B561-A5522099C66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB122839-4D5D-4E0B-B561-A5522099C66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB122839-4D5D-4E0B-B561-A5522099C66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB122839-4D5D-4E0B-B561-A5522099C66D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

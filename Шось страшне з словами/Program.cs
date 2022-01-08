@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Шось_страшне_з_словами
 {
@@ -20,7 +24,7 @@ namespace Шось_страшне_з_словами
                 {
                     if (k[j] == ',' || k[j] == '!' || k[j] == '.' || k[j] == ':' || k[j] == ';')
                     {
-                        k.Remove(i, 1);
+                        k.Remove(j, 1);
                     }
                 }
                 if (k.Length < minSl.Length)
